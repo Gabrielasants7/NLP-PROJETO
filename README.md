@@ -131,3 +131,15 @@ Converte texto de um idioma para outro. A qualidade é avaliada pela métrica BL
 
 ![Captura de tela 2024-08-06 220014](https://github.com/user-attachments/assets/7380b2f1-3f3b-47a6-9836-dbb3b6141918)
 
+
+
+### Principais Bibliotecas Utilizadas
+
+
+-   `transformers`: Implementação de modelos Transformer.
+  
+-   `streamlit`: Construção da interface do usuário.
+
+-   `torch`: Operações com tensores e execução de modelos.
+
+
