@@ -124,4 +124,10 @@ Prevê a próxima palavra em uma frase com base no contexto anterior. Avaliada p
 
 
 
+### 4. Tradução 🌐
+
+Converte texto de um idioma para outro. A qualidade é avaliada pela métrica BLEU. Pode utilizar modelos monolíngues ou multilíngues.
+
+
+![Captura de tela 2024-08-06 220014](https://github.com/user-attachments/assets/7380b2f1-3f3b-47a6-9836-dbb3b6141918)
 
