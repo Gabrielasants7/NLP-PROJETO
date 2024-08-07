@@ -143,3 +143,46 @@ Converte texto de um idioma para outro. A qualidade é avaliada pela métrica BL
 -   `torch`: Operações com tensores e execução de modelos.
 
 
+###  Modelo Transformer 
+
+ > Modelos que utilizam mecanismos de atenção para processar dados sequencialmente, sendo eficazes em tarefas de NLP.
+
+### Hugging Face Transformers 
+
+> Biblioteca que oferece implementações de modelos de ponta como BERT, GPT-2 e T5, facilitando a aplicação de modelos Transformer.
+
+
+
+
+### Contribuições são sempre bem-vindas! Siga as etapas abaixo:
+
+  
+
+ 1. Faça um fork do projeto.
+    
+ 2.  Crie um branch para sua funcionalidade (git checkout -b
+    minha-nova-funcionalidade).
+    
+ 3.   Commit suas alterações (git commit -am 'Adiciona nova
+    funcionalidade').
+    
+ 4.   Envie seu branch (git push origin minha-nova-funcionalidade).
+    
+  5.  Abra um Pull Request.
+
+
+### Licença
+Este projeto está licenciado sob os termos da licença MIT. 
+
+
+### Contato
+Para mais informações ou perguntas, entre em contato:
+
+Nome: Gabriela Santana 
+
+Email: gabriellareboucas6@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/gabriela-santana-801602201/
+
+
+GitHub: Gabrielasants7
