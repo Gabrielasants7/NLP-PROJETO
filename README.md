@@ -5,7 +5,6 @@ Este projeto implementa diversas tarefas de Processamento de Linguagem Natural (
 
 Análise de Sentimento 😍😡: Identificação da polaridade de textos.
 
-Classificação de Tópicos 📚: Categoriza textos em classes predefinidas usando aprendizado zero-shot.
 
 Geração de Texto ✍🏽: Predição da próxima palavra em uma sequência textual.
 
@@ -107,15 +106,9 @@ Identifica a polaridade de um texto, determinando se a opinião expressa é posi
 
 
 
-### 2. Classificação de Tópicos 📚
-
-Categoriza sequências em classes predefinidas utilizando "classificação zero-shot". O Zero-Shot Learning (ZSL) permite classificar textos em categorias que não foram vistas durante o treinamento.
-
-![Captura de tela 2024-08-06 214958](https://github.com/user-attachments/assets/0db5a9be-d8a6-4750-a1ef-966bc087cfa4)
 
 
-
-### 3. Geração de Texto ✍🏽
+### 2. Geração de Texto ✍🏽
 
 Prevê a próxima palavra em uma frase com base no contexto anterior. Avaliada por métricas como perda de entropia cruzada e perplexidade. Utiliza o modelo GPT-2.
 
@@ -124,7 +117,7 @@ Prevê a próxima palavra em uma frase com base no contexto anterior. Avaliada p
 
 
 
-### 4. Tradução 🌐
+### 3. Tradução 🌐
 
 Converte texto de um idioma para outro. A qualidade é avaliada pela métrica BLEU. Pode utilizar modelos monolíngues ou multilíngues.
 
